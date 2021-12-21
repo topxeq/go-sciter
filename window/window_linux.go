@@ -64,6 +64,6 @@ func (s *Window) Run() {
 	C.gtk_main()
 }
 
-func init() {
+func Do_init() {
 	C.gtk_init(nil, nil)
 }

@@ -88,3 +88,7 @@ func (s *Window) Run() {
 
 	C.Run()
 }
+
+func Do_init() {
+	
+}

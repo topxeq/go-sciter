@@ -77,3 +77,7 @@ func delegateProc(hWnd win.HWND, message uint, wParam uintptr, lParam uintptr, p
 	}
 	return 0
 }
+
+func Do_init() {
+	
+}
